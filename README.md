@@ -1,1 +1,1 @@
-<img align="center" alt="🦑" src="/github-metrics.svg">
+<img align="center" width="400" src="/github-metrics.svg">
