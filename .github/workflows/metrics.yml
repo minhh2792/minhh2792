@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: left.github.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: right.github.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
         
           plugin_music: yes
