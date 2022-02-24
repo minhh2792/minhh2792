@@ -25,10 +25,10 @@ jobs:
           user: minhh2792
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Bangkok
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_activity: yes
@@ -56,7 +56,3 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-         # plugin_repositories: 100
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
