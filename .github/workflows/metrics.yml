@@ -54,4 +54,4 @@ jobs:
           plugin_music_top_type: tracks 
           plugin_music_time_range: short
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_music_limit: 4
+          plugin_music_limit: 8
