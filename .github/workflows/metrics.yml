@@ -28,7 +28,7 @@ jobs:
           plugin_music_top_type: tracks 
           plugin_music_time_range: long
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_music_limit: 8
+          plugin_music_limit: 10
           
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -45,4 +45,4 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           
-          config_order: base.header, languages, notable, achievements, music
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages, notable, achievements, music
