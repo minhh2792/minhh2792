@@ -17,7 +17,6 @@ jobs:
           user: minhh2792
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Asia/Bangkok
           
           plugin_languages: yes
@@ -42,7 +41,6 @@ jobs:
           filename: right.github.svg
 
           # Options
-          config_display: columns
           config_timezone: Asia/Bangkok
         
           plugin_music: yes
