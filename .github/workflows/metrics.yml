@@ -42,6 +42,7 @@ jobs:
 
           # Options
           config_timezone: Asia/Bangkok
+          config_order: music, achievements
         
           plugin_music: yes
           plugin_music_provider: spotify
