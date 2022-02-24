@@ -26,7 +26,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_top_type: tracks 
-          plugin_music_time_range: long
+          plugin_music_time_range: short
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_music_limit: 10
           
@@ -44,5 +44,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages, notable, achievements, music
