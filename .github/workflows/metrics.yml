@@ -19,7 +19,10 @@ jobs:
           template: classic
           base: header
           plugin_lines: yes
-          config_order: base.header languages, notable achievements
+          config_order: base.header, isocalendar, languages, topics, notable achievements
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -31,6 +34,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           
           plugin_notable: yes
           plugin_notable_from: organization
