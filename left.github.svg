@@ -2075,10 +2075,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.85308074580576" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="339.85308074580576" y="0" width="87.70817920263049" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.56125994843626" y="0" width="19.94484923214886" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.5061091805851" y="0" width="12.493890819414863" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.8518108888731" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.8518108888731" y="0" width="87.70785148207794" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.55966237095106" y="0" width="19.946493492906278" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.5061558638574" y="0" width="12.493844136142673" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2416,7 +2416,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.01507537688443 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.35175879396985 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2438,10 +2438,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">114</div>
+                                        <div class="value">117</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 114 times</div>
+                                <div class="text">Repositories have been deployed 117 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
