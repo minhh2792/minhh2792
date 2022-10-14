@@ -2084,10 +2084,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.60988489706995" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="291.60988489706995" y="0" width="62.45385592305723" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="354.0637408201272" y="0" width="55.07863442646815" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="409.14237524659535" y="0" width="50.85762475340464" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.310712652639" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="290.310712652639" y="0" width="62.17561324208101" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="352.48632589472" y="0" width="56.51137280770797" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="408.99769870242795" y="0" width="51.002301297572025" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2100,7 +2100,7 @@
                             </div>
                             <small>
                                 <div>252 kB</div>
-                                <div>63.39%</div>
+                                <div>63.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2111,8 +2111,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>47.7 kB</div>
-                                <div>11.97%</div>
+                                <div>49.1 kB</div>
+                                <div>12.29%</div>
                             </small>
                         </div>
                     </section>
@@ -2126,7 +2126,7 @@
                             </div>
                             <small>
                                 <div>54 kB</div>
-                                <div>13.58%</div>
+                                <div>13.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2137,8 +2137,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>44 kB</div>
-                                <div>11.06%</div>
+                                <div>44.3 kB</div>
+                                <div>11.09%</div>
                             </small>
                         </div>
                     </section>
@@ -2235,7 +2235,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.166666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2261,10 +2261,10 @@
                                     <span class="prefix">Master</span>
                                     forker
                                     <div class="value-wrapper">
-                                        <div class="value">21</div>
+                                        <div class="value">20</div>
                                     </div>
                                 </div>
-                                <div class="text">Forked 21 public repositories</div>
+                                <div class="text">Forked 20 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
