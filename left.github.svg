@@ -2085,10 +2085,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.70084433210124" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="235.70084433210124" y="0" width="127.93818239358616" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="363.6390267256874" y="0" width="50.479861401323504" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="414.11888812701096" y="0" width="45.88111187298908" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.3327475102519" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.3327475102519" y="0" width="127.04793985549696" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="363.3806873657488" y="0" width="50.615195599817746" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.9958829655666" y="0" width="46.00411703443338" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2101,7 +2101,7 @@
                             </div>
                             <small>
                                 <div>252 kB</div>
-                                <div>51.24%</div>
+                                <div>51.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2113,7 +2113,7 @@
                             </div>
                             <small>
                                 <div>54 kB</div>
-                                <div>10.97%</div>
+                                <div>11%</div>
                             </small>
                         </div>
                     </section>
@@ -2126,8 +2126,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>137 kB</div>
-                                <div>27.81%</div>
+                                <div>135 kB</div>
+                                <div>27.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2139,7 +2139,7 @@
                             </div>
                             <small>
                                 <div>49.1 kB</div>
-                                <div>9.97%</div>
+                                <div>10%</div>
                             </small>
                         </div>
                     </section>
@@ -2393,7 +2393,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.43333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.95 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2412,10 +2412,10 @@
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">346</div>
+                                        <div class="value">347</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 346 repositories</div>
+                                <div class="text">Starred 347 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
