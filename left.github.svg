@@ -2075,10 +2075,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.7321873147599" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="288.7321873147599" y="0" width="119.95068168346178" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.6828689982217" y="0" width="25.664967397747482" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="434.3478363959692" y="0" width="25.65216360403082" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.75654915720344" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="288.75654915720344" y="0" width="119.93361940210048" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.6901685593039" y="0" width="25.661316706574052" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="434.351485265878" y="0" width="25.648514734122" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2090,7 +2090,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>608 kB</div>
+                                <div>609 kB</div>
                                 <div>62.77%</div>
                             </small>
                         </div>
@@ -2117,7 +2117,7 @@
                             </div>
                             <small>
                                 <div>252 kB</div>
-                                <div>26.08%</div>
+                                <div>26.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2648,7 +2648,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 545k out of 86.3m repositories</span>
+                                    <span class="gh">ranked 545k out of 72m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2727,7 +2727,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 719k out of 86.3m repositories</span>
+                                    <span class="gh">ranked 719k out of 72m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">39</div>
                                     </div>
