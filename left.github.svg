@@ -2072,7 +2072,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="383.59415310779946" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="383.59415310779946" y="0" width="53.499109613825745" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="437.0932627216252" y="0" width="11.465635875505024" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.5588985971302" y="0" width="11.441101402869743" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.5588985971302" y="0" width="11.441101402869743" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2117,7 +2117,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -2641,7 +2641,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 574k out of 220m repositories</span>
+                                    <span class="gh">ranked 574k out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2720,7 +2720,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 769k out of 220m repositories</span>
+                                    <span class="gh">ranked 770k out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">40</div>
                                     </div>
