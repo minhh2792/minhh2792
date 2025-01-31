@@ -2084,10 +2084,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.3943488831425" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="362.3943488831425" y="0" width="50.68648194779702" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.08083083093953" y="0" width="35.93733452816936" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.01816535910893" y="0" width="10.981834640891107" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.2859209889796" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="362.2859209889796" y="0" width="50.67131662163488" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.9572376106145" y="0" width="36.06421349841803" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.02145110903257" y="0" width="10.978548890967502" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2100,7 +2100,7 @@
                             </div>
                             <small>
                                 <div>1.81 MB</div>
-                                <div>78.78%</div>
+                                <div>78.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2111,8 +2111,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>179 kB</div>
-                                <div>7.81%</div>
+                                <div>180 kB</div>
+                                <div>7.84%</div>
                             </small>
                         </div>
                     </section>
@@ -2656,7 +2656,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 665k out of 236m repositories</span>
+                                    <span class="gh">ranked 665k out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -2735,7 +2735,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 799k out of 236m repositories</span>
+                                    <span class="gh">ranked 799k out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">39</div>
                                     </div>
