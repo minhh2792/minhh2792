@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2095,10 +2095,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.2859209889796" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="362.2859209889796" y="0" width="50.67131662163488" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="412.9572376106145" y="0" width="36.06421349841803" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.02145110903257" y="0" width="10.978548890967502" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.28529169862026" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="362.28529169862026" y="0" width="50.671228605597825" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.9565203042181" y="0" width="36.064949874545235" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.02147017876325" y="0" width="10.978529821236727" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2667,7 +2667,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 666k out of 236m repositories</span>
+                                    <span class="gh">ranked 666k out of 234m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -2746,7 +2746,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 799k out of 236m repositories</span>
+                                    <span class="gh">ranked 799k out of 234m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">39</div>
                                     </div>
