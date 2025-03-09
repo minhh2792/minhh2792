@@ -2094,10 +2094,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.8918427673865" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="334.8918427673865" y="0" width="66.51917880143931" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="401.4110215688258" y="0" width="47.54150228726214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.9525238560879" y="0" width="11.047476143912062" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.7302008392744" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="334.7302008392744" y="0" width="66.70909981620059" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="401.439300655475" y="0" width="47.51855547544506" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.95785613092005" y="0" width="11.042143869079931" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2110,7 +2110,7 @@
                             </div>
                             <small>
                                 <div>1.81 MB</div>
-                                <div>72.8%</div>
+                                <div>72.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2122,7 +2122,7 @@
                             </div>
                             <small>
                                 <div>257 kB</div>
-                                <div>10.34%</div>
+                                <div>10.33%</div>
                             </small>
                         </div>
                     </section>
@@ -2135,8 +2135,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>360 kB</div>
-                                <div>14.46%</div>
+                                <div>361 kB</div>
+                                <div>14.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2498,7 +2498,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.24623115577889 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.80402010050251 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2520,10 +2520,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">122</div>
+                                        <div class="value">124</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 122 times</div>
+                                <div class="text">Repositories have been deployed 124 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
